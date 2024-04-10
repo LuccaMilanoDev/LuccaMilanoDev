@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>⚡ Helo, my name is Lucca Milano.</p>
+<p>⚡ Hello, my name is Lucca Milano.</p>
 <p>I'm a Computer Science student seeking to develop new skills and ready to face new challenges, aiming to improve through them.</p>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMilanoDev&\&layout=compact">
