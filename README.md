@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 <p>👩‍💻Hello, my name is Lucca Milano.</p>
 <p>⚡I'm a Computer Science student seeking to develop new skills and ready to face new challenges, aiming to improve through them.</p>
-<p>📝Currently learning more JavaScript</p>
+<p>📝Currently learning more JavaScript and React</p>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMilanoDev&\&layout=compact">
+<a href="https://github.com/LuccaMilanoDev">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMilanoDev&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
 
 ### My skills
