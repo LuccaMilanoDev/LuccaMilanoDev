@@ -30,12 +30,31 @@ Here are some ideas to get you started:
 <h3>My skills</h3>
 </div>
 
-<div align="center">
-<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"/>
+<div align="center" gap=10px>
+<img src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"/> 
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
+
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="30" alt="react.js logo"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   
+</div>
+
+<div align="center">
+<h3>Tools</h3>
+</div>
+
+<div align="center">
+<img src= "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30" alt="vscode logo"/>
+
+<img src= "https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="30" alt="Intellij IDEA logo"/>
+
 </div>
 
