@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <p>👩‍💻Hello, my name is Lucca Milano.</p>
   <p>⚡I'm a Computer Science student seeking to develop new skills and ready to face new challenges, aiming to improve through them.</p>
-  <p>📝Currently learning more React</p>
+  <p>📝Currently learning more Spring Boot</p>
 </div>
 <div align="center"> 
 <a href="https://github.com/LuccaMilanoDev">
